@@ -4,7 +4,7 @@ Este projeto é uma página web simples e responsiva que apresenta meu currícul
 
 ## 🚀 Objetivo
 
-Criar um CV online utilizando HTML e CSS, com base no modelo WAQ3 do site [W3Schools](https://www.w3schools.com/howto/howto_website_create_resume.asp), adaptando o layout e as cores conforme meu estilo pessoal.
+Criar um CV online utilizando HTML e CSS, com base em modelo do W3Schools, site [W3Schools](https://www.w3schools.com/howto/howto_website_create_resume.asp), adaptando o layout e as cores conforme meu estilo pessoal.
 
 ## 🛠️ Tecnologias utilizadas
 
