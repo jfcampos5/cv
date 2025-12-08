@@ -28,6 +28,4 @@ Criar um CV online utilizando HTML e CSS, com base em modelo do W3Schools, site 
 Você pode visualizar o projeto online aqui:  
 [👉 Clique para abrir o CV](https://jfcampos5.github.io/cv/)
 
-## 📌 Status
 
-✅ Projeto finalizado e pronto para entrega na plataforma da DIO.
